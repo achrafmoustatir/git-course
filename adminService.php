@@ -4,5 +4,6 @@
 //manage the database
 //Closig the database connexion
 //Change 1
-//Change 2 in database database
+//Change 2 in my database
 ?>
+
